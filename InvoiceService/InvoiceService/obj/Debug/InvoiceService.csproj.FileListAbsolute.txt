@@ -1,0 +1,5 @@
+D:\Jyothi\Himansu\Sharath\InvoiceService\InvoiceService\bin\InvoiceService.dll
+D:\Jyothi\Himansu\Sharath\InvoiceService\InvoiceService\bin\InvoiceService.pdb
+D:\Jyothi\Himansu\Sharath\InvoiceService\InvoiceService\obj\Debug\InvoiceService.csprojResolveAssemblyReference.cache
+D:\Jyothi\Himansu\Sharath\InvoiceService\InvoiceService\obj\Debug\InvoiceService.dll
+D:\Jyothi\Himansu\Sharath\InvoiceService\InvoiceService\obj\Debug\InvoiceService.pdb
